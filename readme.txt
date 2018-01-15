@@ -32,4 +32,4 @@ My initial plan held up. Recursion was a great choice, and my idea to simplifly 
 
 WHAT'S NEXT?
 
-So the calculator can return negative numbers but currently can't accept them. As I noted earlier I could also include exponents and parentheses. I could build a simple calculator interface, as well. One of the joys of programming is that there are so many different ways to expand and improve a project. If this were a true take home test for an application
+So the calculator can return negative numbers but currently can't accept them. As I noted earlier I could also include exponents and parentheses. I could build a simple calculator interface, as well. One of the joys of programming is that there are so many different ways to expand and improve a project. If this were a true take home test for an application, these features would be good to include, so I can hopefully stand out from the other applicants.
